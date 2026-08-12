@@ -1,5 +1,5 @@
 # free-node 免费VLESS节点分享
-7*24小时在线直播分享免费节点，高速稳定，只需扫一扫，永久免费FREE VPN，V2RAY，Shadowsocks，QR code scanning，24/7 Live stream
+7*24小时在线直播分享免费节点，高速稳定，只需扫一扫，永久免费 | 极简VPN，安卓VPN | V2RAY, Shadowsocks, QR code scan
 
 https://free.20060705.xyz/
 
