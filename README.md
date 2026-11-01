@@ -3,7 +3,7 @@
 
 https://free.20060705.xyz/
 
-2026极简VPN，小白专用，一键科学上网
+2026极简VPN，一键科学上网 
 下载地址：
 https://st.markland.dpdns.org/wsetv7
 电报：t.me/s_vpn_1
