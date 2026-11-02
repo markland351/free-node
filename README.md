@@ -3,9 +3,4 @@
 
 https://free.20060705.xyz/
 
-2026极简VPN，一键科学上网 
-下载地址：
-https://st.markland.dpdns.org/wsetv7
-电报：t.me/s_vpn_1
-
 <img width="1167" height="684" alt="clip" src="https://github.com/user-attachments/assets/2db9daa4-9d9a-4d53-ad10-295ab7c44178" />
